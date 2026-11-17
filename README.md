@@ -1,7 +1,7 @@
 # React-Lab-Exercise-3-State-in-React
 
-## Name : Moulishwar G
-## Register Number : 2305001020
+## Name : PRANAV K
+## Register Number : 2305001026
 
 # Aim
 To create a simple React application that demonstrates the use of State using the useState() Hook.
